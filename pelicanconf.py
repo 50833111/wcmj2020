@@ -2,8 +2,13 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+<<<<<<< HEAD
 AUTHOR = '50833111'
 SITENAME = '50833111 網際內容管理'
+=======
+AUTHOR = 'KMOL'
+SITENAME = 'CMSimfly 網際內容管理'
+>>>>>>> c37fc7b0bb221790770a4354cd2d36e7c90522ab
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
 
